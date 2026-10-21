@@ -1,6 +1,5 @@
 # supernova-neutrino-analysis
 Supernova neutrino simulations and analysis using SNOwGLoBES
-Supernova Neutrino Mass Ordering at DUNE via Quantum Entanglement
 # Supernova Neutrino Mass Ordering at DUNE via Quantum Entanglement
 
 
