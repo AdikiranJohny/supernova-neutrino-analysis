@@ -10,4 +10,6 @@ Supernova neutrino simulations and analysis using SNOwGLoBES
 - **arXiv:** [2602.04800](https://arxiv.org/abs/2602.04800)
 - **Authors:** Adikiran Johny, Athulkrishna R, Rudra Majhi, and Suchismita Sahoo.
 
+### Analysis
 
+- `analysis/event_rate_spectra_nh_vs_ih.ipynb` — Example notebook demonstrating event rate spectra as a function of reconstructed energy for Normal Hierarchy (NH) and Inverted Hierarchy (IH).
