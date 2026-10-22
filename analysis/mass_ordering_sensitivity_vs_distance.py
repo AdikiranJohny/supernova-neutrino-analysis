@@ -52,7 +52,7 @@ colors = ["red","slategrey","cyan","black","blue","green" ]
 plt.figure(figsize=(12, 10))
 for i, dp in enumerate(deltap_values):
     ls = linestyles[i % len(linestyles)]
-    color = colors[i % len(colors)]  # Cycle through the colors
+    color = colors[i % len(colors)] 
     plt.plot(distances, results_ar40[dp], linestyle=ls, color=color, label=fr"Δp = 0.{dp}", linewidth=3.5)
 plt.xlabel("Distance (kpc)", fontsize=40)
 plt.ylabel(r"$\sigma = \sqrt{\Delta \chi^2}$", fontsize=40)
@@ -70,7 +70,7 @@ plt.show()
 plt.figure(figsize=(12, 10))
 for i, dp in enumerate(deltap_values):
     ls = linestyles[i % len(linestyles)]
-    color = colors[i % len(colors)]  # Cycle through the colors
+    color = colors[i % len(colors)]  
     plt.plot(distances, results_elastic[dp], linestyle=ls, color=color, label=fr"Δp = 0.{dp}" , linewidth=3.5)
 plt.xlabel("Distance (kpc)" , fontsize=40)
 plt.ylabel(r"$\sigma = \sqrt{\Delta \chi^2}$", fontsize=40)
