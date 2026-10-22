@@ -13,7 +13,7 @@ Supernova neutrino simulations and analysis using SNOwGLoBES
 ## Analysis Codes
 
 - `analysis/event_rate_spectra_nh_vs_ih.ipynb` — Example notebook demonstrating event rate spectra as a function of reconstructed energy for Normal Hierarchy (NH) and Inverted Hierarchy (IH).
-
+- `analysis/mass_ordering_sensitivity_vs_distance.py` - Code for plotting neutrino mass hirarchy sensitivity as a function of supernova distance.
 ## Research Presentation
 
 This repository also contains a presentation prepared for the **Neutrinos from Home** talk.
